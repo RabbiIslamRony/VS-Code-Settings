@@ -1,0 +1,61 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.iconTheme": "vscode-icons",
+    "sync.gist": "3b707c146809a2c2b72c726da974ef3b",
+    "explorer.confirmDelete": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#dddddd"
+    },
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "terminal.integrated.fontWeightBold": null,
+    "security.workspace.trust.untrustedFiles": "open",
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.inlineSuggest.enabled": true,
+    "emmet.includeLanguages": {
+        "nunjucks": "html",
+        "njk": "html",
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "vue": "html"
+      },
+    "workbench.startupEditor": "none",
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontSize": 17,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "oneDarkPro.editorTheme": "Nord",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "editor.wordWrap": "on",
+    "workbench.colorCustomizations": {
+        "scrollbar.shadow": "#1e1e1e",
+        "editorStickyScroll.background":"#000000"
+    },
+    "editor.codeActionsOnSave": {
+    
+    
+    
+    
+    },
+    "vsicons.associations.folders": [
+
+    
+    ],
+    "editor.occurrencesHighlight": false,
+    "editor.selectionHighlight": false,
+    "gitlens.views.contributors.showAllBranches": true,
+    "editor.stickyScroll.enabled": true,
+    "json.schemas": [
+
+    
+    
+    ],
+    "terminal.integrated.gpuAcceleration": "off",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "glassit.alpha": 220,
+    "liveServer.settings.donotVerifyTags": true,
+    "svelte.enable-ts-plugin": true,
+    "svelte.plugin.svelte.note-new-transformation": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.autoSave": "afterDelay"
+}
