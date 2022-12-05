@@ -1,7 +1,7 @@
 {
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "workbench.iconTheme": "vscode-icons",
-    "sync.gist": "3b707c146809a2c2b72c726da974ef3b",
+    "sync.gist": "",
     "explorer.confirmDelete": false,
     "workbench.editor.untitled.hint": "hidden",
     "workbench.colorCustomizations": {
